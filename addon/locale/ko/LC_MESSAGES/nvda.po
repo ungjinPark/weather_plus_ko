@@ -1,0 +1,1078 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather_Plus\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2019-05-06 12:15+0200\n"
+"PO-Revision-Date: 2026-04-28 00:00+0900\n"
+"Last-Translator: Korean translation contributor\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Codex\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../../../globalPlugins/Weather_Plus\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: __init__.py\n"
+
+msgid "Fahrenheit"
+msgstr "화씨"
+
+msgid "Celsius"
+msgstr "섭씨"
+
+msgid "Kelvin"
+msgstr "켈빈"
+
+msgid "unknown"
+msgstr "알 수 없음"
+
+#. Translators: the configuration submenu in NVDA Preferences menu
+msgid "Weather Plus &Settings"
+msgstr "Weather Plus 설정(&S)"
+
+msgid "Show configuration items."
+msgstr "구성 항목을 표시합니다."
+
+#. Translators: item to open primary configuration window
+msgid "Set and &manage your cities..."
+msgstr "도시 설정 및 관리(&M)..."
+
+msgid "Displays or allows to set the current cities from a list"
+msgstr "목록에서 현재 도시 표시 또는 설정"
+
+#. Translators: item to open window to set up a temporary city
+msgid "Set a &temporary city..."
+msgstr "임시 도시 설정(&T)..."
+
+msgid "Allows to set one temporary city from a list"
+msgstr "목록에서 임시 도시 하나 설정"
+
+#. Translators: item to open the help file for the current language
+msgid "&Documentation"
+msgstr "문서(&D)"
+
+msgid "Opens the help file for the current language"
+msgstr "현재 언어 도움말 열기"
+
+#. Translators: item to notify if there is an upgraded version available
+msgid "&Check for Upgrade..."
+msgstr "업데이트 확인(&C)..."
+
+msgid "Notify if there is an upgraded version available"
+msgstr "새 버전 알리기"
+
+#. opens the Weather Plus settings window
+#. Translators: the title of main settings window
+msgid "Settings"
+msgstr "설정"
+
+msgid "Preset"
+msgstr "프리셋"
+
+msgid "None"
+msgstr "없음"
+
+#. Translators: the message in the main settings window
+msgid "Enter a City or choose one from the list, if available."
+msgstr "도시를 입력하거나, 가능한 경우 목록에서 하나를 선택하십시오."
+
+#. Translators: dialog message in case of invalid city or with incomplete data
+#. Translators: dialog message used to describe one of the 2 types of errors in city
+msgid "The city"
+msgstr "도시"
+
+msgid "has not been preset."
+msgstr "프리셋으로 저장되지 않았습니다."
+
+msgid "Will be used in temporary mode!"
+msgstr "임시 모드로 사용됩니다!"
+
+#. Translators: the dialog title
+#. offers to save the list changed
+#. Translators: the dialog title
+#. Translators: title dialog
+#. Translators: the dialog title
+msgid "Notice!"
+msgstr "알림!"
+
+#. Translators: dialog message to warn that the list has not been saved
+msgid "You have modified the list of your cities"
+msgstr "도시 목록 수정됨"
+
+msgid "Do you want to save it?"
+msgstr "저장하시겠습니까?"
+
+msgid "The cities on your list are not compatible with the Weather API!"
+msgstr "목록의 도시가 Weather API와 호환되지 않습니다!"
+
+msgid ""
+"They have to be tested and validated, you can do it from the addon settings "
+"window."
+msgstr "도시를 테스트하고 확인해야 합니다. 추가 기능 설정 창에서 할 수 있습니다."
+
+#. Translators: the dialog title to  setting a temporary city
+msgid "Setting up a temporary city"
+msgstr "임시 도시 설정"
+
+#. addss short cut keys
+msgid "Cities List available:"
+msgstr "사용 가능한 도시 목록:"
+
+msgid "Documentation not available for the current language!"
+msgstr "현재 언어로 된 문서가 없습니다!"
+
+#. Translators: dialog message and title used when it was not possible to find data
+msgid ""
+"Sorry, I can not receive data, problems with the download page, try again "
+"later please!"
+msgstr "죄송합니다. 다운로드 페이지 문제로 데이터를 받을 수 없습니다. 나중에 다시 시도하십시오!"
+
+#. Translators: dialog message and title used when it not possible to connect and receive data
+msgid ""
+"Sorry, I can not receive data, verify that your internet connection is "
+"active, or try again later!"
+msgstr "죄송합니다. 데이터를 받을 수 없습니다. 인터넷 연결이 활성 상태인지 확인하거나 나중에 다시 시도하십시오!"
+
+msgid "version"
+msgstr "버전"
+
+msgid "is available."
+msgstr "을 사용할 수 있습니다."
+
+msgid "Installed version"
+msgstr "설치된 버전"
+
+msgid "Do you want to download and install it?"
+msgstr "다운로드하여 설치하시겠습니까?"
+
+#. Translators: dialog message used when a new version is not available
+msgid "Sorry, at the time an update is not available."
+msgstr "죄송합니다. 현재 사용할 수 있는 업데이트가 없습니다."
+
+msgid "not found!"
+msgstr "찾을 수 없음!"
+
+msgid ""
+"You need to upgrade the sound effects by reactivating the appropriate option "
+"from the settings of"
+msgstr "다음 설정에서 해당 옵션을 다시 활성화하여 효과음을 업그레이드해야 합니다:"
+
+msgid "But if these are already updated, then you need to update"
+msgstr "이미 업데이트되어 있다면 다음을 업데이트해야 합니다:"
+
+msgid "I can not load the settings!"
+msgstr "설정을 불러올 수 없습니다!"
+
+msgid "Attenction!"
+msgstr "주의!"
+
+msgid "I can not save the settings!"
+msgstr "설정을 저장할 수 없습니다!"
+
+msgid "invalid name"
+msgstr "잘못된 이름"
+
+msgid "The cloudiness is"
+msgstr "구름량"
+
+msgid "The precipitation is"
+msgstr "강수량"
+
+msgid "miles per hour"
+msgstr "마일/시"
+
+msgid "miles"
+msgstr "마일"
+
+msgid "inches of mercury"
+msgstr "수은주 인치"
+
+#. takes the value in mmHg
+msgid "millimeters of mercury"
+msgstr "수은주 밀리미터"
+
+msgid "inches"
+msgstr "인치"
+
+msgid "nanometers"
+msgstr "나노미터"
+
+msgid "kilometers per hour"
+msgstr "킬로미터/시"
+
+msgid "kilometers"
+msgstr "킬로미터"
+
+msgid "millibars"
+msgstr "밀리바"
+
+msgid "millimeters"
+msgstr "밀리미터"
+
+msgid "the weather report is currently"
+msgstr "현재 날씨 보고"
+
+msgid "degrees"
+msgstr "도"
+
+#. addss wind information to the string
+msgid "The wind direction is from"
+msgstr "풍향"
+
+msgid "with speed of"
+msgstr "풍속"
+
+msgid "The wind speed is"
+msgstr "풍속"
+
+msgid "With gusts of"
+msgstr "돌풍 속도"
+
+msgid "The perceived temperature is"
+msgstr "체감 온도"
+
+#. addss information on the atmosphere
+msgid "The humidity is"
+msgstr "습도"
+
+msgid "The cloudiness is of"
+msgstr "구름량"
+
+msgid "The precipitation is of"
+msgstr "강수량"
+
+msgid "and the visibility is up to"
+msgstr "가시거리"
+
+msgid "The visibility is up to"
+msgstr "가시거리"
+
+msgid "and the precipitation is"
+msgstr "강수량"
+
+msgid "The pressure is"
+msgstr "기압"
+
+msgid "The UV radiation is of"
+msgstr "자외선 지수"
+
+msgid "The sun rises at"
+msgstr "일출 시각"
+
+msgid "and sets at"
+msgstr "일몰 시각"
+
+msgid "The moon rises at"
+msgstr "월출 시각"
+
+msgid "the forecast for today is"
+msgstr "오늘 예보"
+
+msgid "with a maximum temperature of"
+msgstr "최고 기온"
+
+msgid "and a minimum of"
+msgstr "최저 기온"
+
+#. replace the missing prediction with a description
+msgid "not available"
+msgstr "사용할 수 없음"
+
+#. this does not replace the name of the city
+msgid "In"
+msgstr "지역"
+
+msgid "Unnamed"
+msgstr "이름 없음"
+
+msgid "Sorry, the city is not set!"
+msgstr "죄송합니다. 도시가 설정되지 않았습니다!"
+
+msgid "Sorry, it was not possible to load the most recent update!"
+msgstr "죄송합니다. 최신 업데이트를 불러올 수 없습니다!"
+
+msgid "Please try again later."
+msgstr "나중에 다시 시도하십시오."
+
+msgid "meters per second"
+msgstr "미터/초"
+
+msgid "Sorry, the city set is not valid or contains incomplete data!"
+msgstr "죄송합니다. 설정된 도시가 올바르지 않거나 불완전한 데이터를 포함합니다!"
+
+msgid "north"
+msgstr "북"
+
+msgid "north northeast"
+msgstr "북북동"
+
+msgid "northeast"
+msgstr "북동"
+
+msgid "east northeast"
+msgstr "동북동"
+
+msgid "east"
+msgstr "동"
+
+msgid "east southeast"
+msgstr "동남동"
+
+msgid "southeast"
+msgstr "남동"
+
+msgid "south southeast"
+msgstr "남남동"
+
+msgid "south"
+msgstr "남"
+
+msgid "south southwest"
+msgstr "남남서"
+
+msgid "southwest"
+msgstr "남서"
+
+msgid "west southwest"
+msgstr "서남서"
+
+msgid "west"
+msgstr "서"
+
+msgid "west northwest"
+msgstr "서북서"
+
+msgid "northwest"
+msgstr "북서"
+
+msgid "north northwest"
+msgstr "북북서"
+
+msgid ""
+"Is not working properly, contains incomplete data or has been removed from "
+"the"
+msgstr "올바르게 작동하지 않거나, 불완전한 데이터를 포함하거나, 다음에서 제거되었습니다:"
+
+msgid "It could be a temporary problem and you may wait a while '..."
+msgstr "일시적인 문제일 수 있으니 잠시 기다려 보십시오'..."
+
+msgid "Do you want to delete it from your list?"
+msgstr "목록에서 삭제하시겠습니까?"
+
+msgid "Provides the current temperature and weather conditions."
+msgstr "현재 기온과 날씨 상태를 알려줍니다."
+
+#, python-format
+msgid ""
+"Provides the weather forecast and current temperature for 24 hours and the "
+"next %d days."
+msgstr "24시간 및 다음 %d일 동안의 날씨 예보와 현재 기온을 알려줍니다."
+
+msgid "Sorry, no list available!"
+msgstr "죄송합니다. 사용할 수 있는 목록이 없습니다!"
+
+msgid "Allows you to set a temporary city."
+msgstr "임시 도시를 설정할 수 있습니다."
+
+msgid "Scale of temperature measurement set into"
+msgstr "온도 단위 설정"
+
+msgid "Allows you to set a temporary scale of temperature mesurement."
+msgstr "임시 온도 단위를 설정할 수 있습니다."
+
+msgid "at"
+msgstr "시각"
+
+msgid "Last update of the current weather report"
+msgstr "현재 날씨 보고의 마지막 업데이트"
+
+msgid "Announces the date of the last update of the weather report."
+msgstr "날씨 보고의 마지막 업데이트 날짜를 알립니다."
+
+msgid "Open the Weather Plus settings dialog."
+msgstr "Weather Plus 설정 대화상자를 엽니다."
+
+msgid ""
+"f1: help placing, f2: last TAB selection, f3: list and edit box, f4: control "
+"duration Weather Forecast, f5: volume controls."
+msgstr "f1: 위치 도움말, f2: 마지막 TAB 선택, f3: 목록 및 편집 상자, f4: 날씨 예보 기간 조절, f5: 볼륨 조절."
+
+msgid ""
+"f1: help placing, f2: last TAB selection, f3: list and edit box, f4: control "
+"duration Weather Forecast."
+msgstr "f1: 위치 도움말, f2: 마지막 TAB 선택, f3: 목록 및 편집 상자, f4: 날씨 예보 기간 조절."
+
+msgid "Test"
+msgstr "테스트"
+
+msgid "Details"
+msgstr "세부 정보"
+
+msgid "Define"
+msgstr "정의"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Rename"
+msgstr "이름 변경"
+
+msgid "&Import new cities..."
+msgstr "새 도시 가져오기(&I)..."
+
+msgid "&Export your cities..."
+msgstr "도시 내보내기(&E)..."
+
+msgid "Scale of temperature measurement:"
+msgstr "온도 단위:"
+
+msgid "Degrees shown as:"
+msgstr "온도 표시:"
+
+msgid "C - F - K"
+msgstr "C - F - K"
+
+msgid "Unspecified"
+msgstr "지정 안 함"
+
+msgid "Weather Forecasts up to days:"
+msgstr "날씨 예보 일수:"
+
+msgid "API response language:"
+msgstr "API 응답 언어:"
+
+#. check boxes
+msgid ""
+"&Copy the weather report and weather forecast, including city details to "
+"clipboard"
+msgstr "도시 세부 정보를 포함한 날씨 보고와 예보를 클립보드에 복사(&C)"
+
+msgid "Enable &audio effects (only for the current weather conditions)"
+msgstr "오디오 효과 사용(&A)(현재 날씨 상태에만 적용)"
+
+msgid "Use only &weather effects"
+msgstr "날씨 효과만 사용(&W)"
+
+msgid "General audio volume"
+msgstr "전체 오디오 볼륨"
+
+msgid "Current audio volume"
+msgstr "현재 오디오 볼륨"
+
+#. check boxes
+msgid "Enable &help buttons in the settings window"
+msgstr "설정 창에 도움말 버튼 사용(&H)"
+
+msgid "Read &wind information"
+msgstr "바람 정보 읽기(&W)"
+
+msgid "Add wind directi&on"
+msgstr "풍향 추가(&O)"
+
+msgid "Add wi&nd speed"
+msgstr "풍속 추가(&N)"
+
+msgid "Add speed in &meters per second of the wind"
+msgstr "풍속을 미터/초로 추가(&M)"
+
+msgid "Add wind &gust speed"
+msgstr "돌풍 속도 추가(&G)"
+
+msgid "Add perceived &temperature"
+msgstr "체감 온도 추가(&T)"
+
+msgid "&Read atmospherical information"
+msgstr "대기 정보 읽기(&R)"
+
+msgid "Add humidity va&lue"
+msgstr "습도 값 추가(&L)"
+
+msgid "Add &visibility value"
+msgstr "가시거리 값 추가(&V)"
+
+msgid "Add cloudiness &value"
+msgstr "구름량 값 추가(&V)"
+
+msgid "Add precipitation &value"
+msgstr "강수량 값 추가(&V)"
+
+msgid "Add &ultraviolet radiation value"
+msgstr "자외선 지수 값 추가(&U)"
+
+msgid "Add atmospheric &pressure value"
+msgstr "기압 값 추가(&P)"
+
+msgid "Indicates the atmospheric pressure in millimeters of mercur&y (mmHg)"
+msgstr "기압을 수은주 밀리미터(mmHg)로 표시(&Y)"
+
+msgid "Read a&stronomical information"
+msgstr "천문 정보 읽기(&S)"
+
+msgid "Enable reading of the hours in &24-hour format"
+msgstr "24시간 형식으로 시간 읽기 사용(&2)"
+
+msgid "Use the comma to separate decimals, example (4,&15)"
+msgstr "소수점 구분에 쉼표 사용, 예: (4,&15)"
+
+msgid "Check for &upgrade"
+msgstr "업데이트 확인(&U)"
+
+msgid "Test the city validity  and find the data of it."
+msgstr "도시가 유효한지 테스트하고 데이터를 찾습니다."
+
+msgid "Add the current city into your list."
+msgstr "현재 도시를 목록에 추가합니다."
+
+msgid "Displays information about the current city."
+msgstr "현재 도시 정보를 표시합니다."
+
+msgid "Allows you to define the area, in order to adapt the sound effects."
+msgstr "효과음을 맞추기 위해 지역 유형을 정의할 수 있습니다."
+
+msgid ""
+"Presets the current city as the default, will be used every time you restart "
+"the plugin."
+msgstr "현재 도시를 기본값으로 프리셋합니다. 플러그인을 다시 시작할 때마다 사용됩니다."
+
+msgid "Delete  the current city from your list."
+msgstr "목록에서 현재 도시를 삭제합니다."
+
+msgid "Rename the current city."
+msgstr "현재 도시의 이름을 변경합니다."
+
+msgid ""
+"Permits to incorporate in your list new cities importing them from another "
+"list with the extension *.zipcodes; you can select the city you want to "
+"import, by turning on the check box associated."
+msgstr "*.zipcodes 확장자를 가진 다른 목록에서 새 도시를 가져와 현재 목록에 포함할 수 있습니다. 해당 확인란을 선택하여 가져올 도시를 선택할 수 있습니다."
+
+msgid "Permits to save your list of cities in a specified path."
+msgstr "도시 목록을 지정한 경로에 저장할 수 있습니다."
+
+msgid "You can enter or search for a city"
+msgstr "도시 입력 또는 검색"
+
+msgid "By Latitude and Longitude: 48.8567,2.3508"
+msgstr "위도와 경도: 48.8567,2.3508"
+
+msgid "By City name: Paris"
+msgstr "도시 이름: Paris"
+
+msgid "By City name and country: Toronto,Canada"
+msgstr "도시 이름과 국가: Toronto,Canada"
+
+msgid "Or Toronto,CA"
+msgstr "또는 Toronto,CA"
+
+msgid "By City name and region: Toronto,Ontario"
+msgstr "도시 이름과 지역: Toronto,Ontario"
+
+msgid "By US zip: 10001"
+msgstr "미국 우편번호: 10001"
+
+msgid "By UK postcode: SW1"
+msgstr "영국 우편번호: SW1"
+
+msgid "By Canada postal code: G2J"
+msgstr "캐나다 우편번호: G2J"
+
+msgid "By metar:<metar code>: metar:EGLL"
+msgstr "METAR:<metar 코드>: metar:EGLL"
+
+msgid "By iata:<3 digit airport code>: iata:DXB"
+msgstr "IATA:<3자리 공항 코드>: iata:DXB"
+
+msgid "By auto:ip IP lookup: auto:ip"
+msgstr "auto:ip IP 조회: auto:ip"
+
+msgid "By IP address (IPv4 and IPv6 supported): 100.0.0.1"
+msgstr "IP 주소(IPv4 및 IPv6 지원): 100.0.0.1"
+
+msgid "if there will be cities with the same name, will be listed"
+msgstr "같은 이름의 도시가 있으면 목록에 표시됩니다"
+
+msgid "By default, confirming a selection, is used the postal code"
+msgstr "기본적으로 선택을 확인하면 우편번호가 사용됩니다"
+
+msgid ""
+"If the postal code is not valid, will be used a text string: city, state, "
+"region"
+msgstr "우편번호가 유효하지 않으면 도시, 주, 지역 텍스트 문자열이 사용됩니다"
+
+msgid "You can indicate how to proceed by prefixing the following commands"
+msgstr "다음 명령 접두사를 붙여 처리 방식을 지정할 수 있습니다"
+
+msgid ""
+"Direct (cities with the same name, will not listed), by typing D:City: D:"
+"Paris"
+msgstr "직접 검색(같은 이름의 도시는 나열하지 않음), D:도시 입력: D:Paris"
+
+msgid "Geographic coordinates, by typing G:City: G:Venezia"
+msgstr "지리 좌표, G:도시 입력: G:Venezia"
+
+msgid "Text string, by typing T:City: T:Bologna"
+msgstr "텍스트 문자열, T:도시 입력: T:Bologna"
+
+msgid "If the city is not found"
+msgstr "도시를 찾지 못한 경우"
+
+msgid "Try to reverse the order in the search key"
+msgstr "검색어 순서를 바꿔 보십시오"
+
+msgid "Try with or without the country of origin"
+msgstr "국가 이름을 넣거나 빼고 시도하십시오"
+
+msgid "Try to merge the name with hyphens, or separate it with separator"
+msgstr "이름을 하이픈으로 합치거나 구분자로 나누어 보십시오"
+
+msgid "Try deleting apostrophes"
+msgstr "아포스트로피를 삭제해 보십시오"
+
+msgid "Try changing the vowels accented with normal vowels"
+msgstr "악센트가 있는 모음을 일반 모음으로 바꿔 보십시오"
+
+msgid "Try to change in English some parts"
+msgstr "일부를 영어로 바꿔 보십시오"
+
+msgid "Try with a closest location"
+msgstr "가장 가까운 위치로 시도하십시오"
+
+#. Translators: the title of the help window
+msgid "Help placing"
+msgstr "위치 도움말"
+
+msgid "No sound effect in memory!"
+msgstr "메모리에 효과음이 없습니다!"
+
+msgid "I can't reproduce the sound."
+msgstr "소리를 재생할 수 없습니다."
+
+#. Translators: message dialog
+msgid "Choose search key for"
+msgstr "검색 키 선택"
+
+#. Translators: the dialog message
+msgid "Unfortunately I could not recover enough data to find the city."
+msgstr "안타깝게도 도시를 찾을 만큼 충분한 데이터를 복구하지 못했습니다."
+
+msgid "Do I try anyway?"
+msgstr "그래도 시도할까요?"
+
+msgid "not found! Press F1 for help on entering data."
+msgstr "찾을 수 없습니다! 데이터 입력 도움말을 보려면 F1을 누르십시오."
+
+msgid "Is not working properly or has been removed from the database of"
+msgstr "올바르게 작동하지 않거나 다음 데이터베이스에서 제거되었습니다:"
+
+msgid "Is no longer valid!"
+msgstr "더 이상 유효하지 않습니다!"
+
+msgid "This option requires the installation of some audio effects"
+msgstr "이 옵션은 일부 오디오 효과 설치가 필요합니다"
+
+msgid "Do you want to install them?"
+msgstr "설치하시겠습니까?"
+
+msgid "The audio effects are installed!"
+msgstr "오디오 효과가 설치되었습니다!"
+
+msgid "Would you like to update?"
+msgstr "업데이트하시겠습니까?"
+
+msgid "Or do you want to uninstall them?"
+msgstr "또는 제거하시겠습니까?"
+
+msgid "Are you sure you want to uninstall the sound effects?"
+msgstr "효과음을 제거하시겠습니까?"
+
+#. Translators: title and message used in tthe progress qdialog
+msgid "Update in progress"
+msgstr "업데이트 진행 중"
+
+msgid "Installation in progress"
+msgstr "설치 진행 중"
+
+msgid "Please wait..."
+msgstr "기다려 주십시오..."
+
+#. Installation Complete
+msgid "The installation of audio effects has been completed successfully!"
+msgstr "오디오 효과 설치가 완료되었습니다!"
+
+msgid "Adding folder:"
+msgstr "폴더 추가:"
+
+msgid "The upgrade of audio effects has been completed successfully!"
+msgstr "오디오 효과 업그레이드가 완료되었습니다!"
+
+msgid "These sound effects are subject to change by the author."
+msgstr "이 효과음은 작성자에 의해 변경될 수 있습니다."
+
+msgid "Disable and re-enable this option in order to update or uninstall them."
+msgstr "업데이트하거나 제거하려면 이 옵션을 껐다가 다시 켜십시오."
+
+#. Translators: dialog message and title used to notify lack of connection or corrupt file, during the sound effects installation
+msgid "Verify that your internet connection is active, or try again later."
+msgstr "인터넷 연결이 활성 상태인지 확인하거나 나중에 다시 시도하십시오."
+
+msgid "File corrupted or not available!"
+msgstr "파일이 손상되었거나 사용할 수 없습니다!"
+
+msgid "Sorry, I could not complete the installation of the sound effects!"
+msgstr "죄송합니다. 효과음 설치를 완료할 수 없습니다!"
+
+msgid "Installation Error!"
+msgstr "설치 오류!"
+
+msgid "Cannot identify your location, due to insufficient data."
+msgstr "데이터가 부족하여 위치를 식별할 수 없습니다."
+
+msgid "Details of"
+msgstr "세부 정보"
+
+msgid "Place"
+msgstr "장소"
+
+msgid "Current local time"
+msgstr "현재 현지 시간"
+
+msgid "Degrees latitude"
+msgstr "위도"
+
+msgid "Degrees longitude"
+msgstr "경도"
+
+msgid "Elevation above sea level"
+msgstr "해발 고도"
+
+msgid "meters"
+msgstr "미터"
+
+msgid "Define the area for"
+msgstr "지역 유형 정의"
+
+msgid "Hinterland"
+msgstr "내륙 지역"
+
+msgid "Maritime area"
+msgstr "해양 지역"
+
+msgid "Desert zone"
+msgstr "사막 지역"
+
+msgid "Arctic zone"
+msgstr "북극 지역"
+
+msgid "Mountain zone"
+msgstr "산악 지역"
+
+#. Translators: the dialog message
+msgid "Enter new name."
+msgstr "새 이름을 입력하십시오."
+
+msgid "it can't be used because it already exists!"
+msgstr "이미 존재하므로 사용할 수 없습니다!"
+
+msgid "is correct"
+msgstr "올바름"
+
+msgid "But the name"
+msgstr "하지만 이름"
+
+msgid "already exists"
+msgstr "이미 있음"
+
+msgid "You have to change it!"
+msgstr "변경해야 합니다!"
+
+msgid "The city proper is"
+msgstr "올바른 도시 이름"
+
+msgid "Want to use the suggested name?"
+msgstr "제안된 이름을 사용하시겠습니까?"
+
+msgid "Import cities"
+msgstr "도시 가져오기"
+
+msgid "Empty file or not in cities format compatible!"
+msgstr "파일이 비어 있거나 호환되는 도시 형식이 아닙니다!"
+
+msgid "Do you want to replace your list with this?"
+msgstr "현재 목록을 이것으로 바꾸시겠습니까?"
+
+msgid "If you select yes, your list will be completely replaced."
+msgstr "예를 선택하면 현재 목록이 완전히 대체됩니다."
+
+msgid "If you select no, the new cities will be added to your list."
+msgstr "아니요를 선택하면 새 도시가 현재 목록에 추가됩니다."
+
+#. Translators: the title window
+msgid "Select import mode"
+msgstr "가져오기 모드 선택"
+
+msgid "File contents"
+msgstr "파일 내용"
+
+msgid "cities"
+msgstr "도시"
+
+msgid "Activate the check boxes of the cities you want to import."
+msgstr "가져올 도시의 확인란을 선택하십시오."
+
+msgid "Importing cities in progress"
+msgstr "도시 가져오는 중"
+
+msgid "Were added"
+msgstr "추가됨"
+
+msgid "new cities to the list"
+msgstr "개의 새 도시가 목록에 추가됨"
+
+msgid "Have been ignored because existing"
+msgstr "이미 있어서 무시됨"
+
+msgid "Content of imported list"
+msgstr "가져온 목록 내용"
+
+msgid "Containing incomplete data"
+msgstr "불완전한 데이터 포함"
+
+msgid "selected by the user"
+msgstr "사용자가 선택함"
+
+msgid "Import finished"
+msgstr "가져오기 완료"
+
+msgid "A copy of"
+msgstr "복사본"
+
+msgid "It will be exported"
+msgstr "내보낼 예정"
+
+msgid "But it does not yet contain the changes you just made the list!"
+msgstr "하지만 방금 목록에 적용한 변경 사항은 아직 포함되어 있지 않습니다!"
+
+msgid "I proceed?"
+msgstr "계속할까요?"
+
+msgid "Export cities"
+msgstr "도시 내보내기"
+
+msgid "You can not export the same file at the same path!"
+msgstr "같은 경로에 같은 파일을 내보낼 수 없습니다!"
+
+msgid "january"
+msgstr "1월"
+
+msgid "february"
+msgstr "2월"
+
+msgid "march"
+msgstr "3월"
+
+msgid "april"
+msgstr "4월"
+
+msgid "may"
+msgstr "5월"
+
+msgid "june"
+msgstr "6월"
+
+msgid "july"
+msgstr "7월"
+
+msgid "august"
+msgstr "8월"
+
+msgid "september"
+msgstr "9월"
+
+msgid "october"
+msgstr "10월"
+
+msgid "november"
+msgstr "11월"
+
+msgid "december"
+msgstr "12월"
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Sunday"
+msgstr "일요일"
+
+#, python-format
+msgid "It was not possible find the acronym of \"%s\"!"
+msgstr "\"%s\"의 약어를 찾을 수 없습니다!"
+
+msgid "This may not allow you to get the city details."
+msgstr "이로 인해 도시 세부 정보를 가져오지 못할 수 있습니다."
+
+msgid ""
+"Please report this to the author so he can add this country in database."
+msgstr "작성자가 이 국가를 데이터베이스에 추가할 수 있도록 보고해 주십시오."
+
+#, python-format
+msgid "Send an email to %s"
+msgstr "%s에 이메일 보내기"
+
+msgid "With  object the line below, thanks."
+msgstr "아래 줄을 제목으로 사용해 주십시오. 감사합니다."
+
+msgid "Downloaded"
+msgstr "다운로드됨"
+
+msgid "of"
+msgstr "/"
+
+msgid "Find..."
+msgstr "찾기..."
+
+msgid "Find next"
+msgstr "다음 찾기"
+
+msgid "Find previous"
+msgstr "이전 찾기"
+
+msgid "Be an error has occurred."
+msgstr "오류가 발생했습니다."
+
+msgid "See the log for more information."
+msgstr "자세한 내용은 로그를 확인하십시오."
+
+msgid "Error: failure writing file!"
+msgstr "오류: 파일 쓰기에 실패했습니다!"
+
+msgid "occurrences found"
+msgstr "개 발견"
+
+msgid "for"
+msgstr "검색어"
+
+msgid "Choose a city."
+msgstr "도시 선택."
+
+msgid "List of availables Cities"
+msgstr "사용 가능한 도시 목록"
+
+msgid "Do not show this message again!"
+msgstr "이 메시지를 다시 표시하지 않음!"
+
+msgid "&Install..."
+msgstr "설치(&I)..."
+
+msgid "Upd&ate..."
+msgstr "업데이트(&A)..."
+
+msgid "&Close"
+msgstr "닫기(&C)"
+
+msgid "&Uninstall..."
+msgstr "제거(&U)..."
+
+msgid "Type the search string"
+msgstr "검색 문자열 입력"
+
+msgid "Find"
+msgstr "찾기"
+
+msgid "next"
+msgstr "다음"
+
+msgid "previous"
+msgstr "이전"
+
+msgid "No results next for"
+msgstr "다음 결과 없음:"
+
+msgid "No previous results for"
+msgstr "이전 결과 없음:"
+
+msgid "&Select all"
+msgstr "모두 선택(&S)"
+
+msgid "&Deselect all"
+msgstr "모두 선택 해제(&D)"
+
+msgid "not checked"
+msgstr "선택 안 됨"
+
+msgid "checked"
+msgstr "선택됨"
+
+msgid "check box"
+msgstr "확인란"
+
+msgid "check boxes checked"
+msgstr "확인란 선택됨"
+
+msgid "check boxes not checked"
+msgstr "확인란 선택 안 됨"
+
+msgid "Saving in progress"
+msgstr "저장 중"
+
+msgid "Download canceled."
+msgstr "다운로드가 취소되었습니다."
+
+msgid "&Copy to clipboard"
+msgstr "클립보드에 복사(&C)"
+
+msgid ""
+"Adds local temperature and forecast 24 ours and prediction up to 3 days.\n"
+msgstr ""
+"현지 기온, 24시간 예보, 최대 3일 예보를 추가합니다.\n"
+
+msgid "NVDA+w for the current bulletin.\n"
+msgstr ""
+"현재 날씨 정보를 보려면 NVDA+w를 누르십시오.\n"
+
+msgid ""
+"NVDA+shift+w for the prediction in the current 24 hours and prediction up to "
+"9 days.\n"
+msgstr ""
+"현재 24시간 예보와 최대 9일 예보를 보려면 NVDA+Shift+W를 누르십시오.\n"
+
+msgid "NVDA+shift+control+w for quickly enter a temporary city.\n"
+msgstr ""
+"임시 도시를 빠르게 입력하려면 NVDA+Shift+Control+W를 누르십시오.\n"
+
+msgid "NVDA + shift + control + alt + w for open the Weather Plus settings.\n"
+msgstr ""
+"Weather Plus 설정을 열려면 NVDA+Shift+Control+Alt+W를 누르십시오.\n"
+
+msgid ""
+"NVDA+alt+w announces the date of the last update of the weather report.\n"
+msgstr ""
+"날씨 보고의 마지막 업데이트 날짜를 알리려면 NVDA+Alt+W를 누르십시오.\n"
+
+msgid "Shift+control+w alternates between Fahrenheit, Celsius and Kelvin.\n"
+msgstr ""
+"Shift+Control+W는 화씨, 섭씨, 켈빈을 전환합니다.\n"
+
+msgid ""
+"For other instructions, you can also press Add-on Help button in Add-ons "
+"manager."
+msgstr "그 밖의 안내는 추가 기능 관리자에서 추가 기능 도움말 버튼을 눌러 확인할 수 있습니다."
